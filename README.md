@@ -204,43 +204,6 @@ End-to-end development of a preconception healthcare platform.
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-**AWS**
-
-<img src="https://img.shields.io/badge/YOUR%20AWS%20CERT-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/YOUR%20ORACLE%20CERT-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/YOUR%20NPTEL%20CERT-6366F1?style=for-the-badge&logoColor=white"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/YOUR%20CISCO%20CERT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</div>
-
----
-
-## 👨‍💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="https://geeksforgeeks.org/user/YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="https://hackerrank.com/YOUR_HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="https://codechef.com/users/YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b4b"/></a>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -248,14 +211,6 @@ End-to-end development of a preconception healthcare platform.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-2097&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="180"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-2097&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6" height="160"/>
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pratham-2097&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8"/>
 </div>
 
 ---
